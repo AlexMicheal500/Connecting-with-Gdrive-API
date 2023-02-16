@@ -8,3 +8,6 @@ https://github.com/glotlabs/gdrive#using-gdrive-on-a-remote-server
 
 TO download gdrive using wget on linux server use:
 wget https://github.com/glotlabs/gdrive/releases/download/3.6.0/gdrive_linux-x64.tar.gz
+
+For download of files from google drive
+https://goonlinetools.com/snapshot/code/#g9lf41rgmnu8nj2y89trv2
